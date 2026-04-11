@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Michelle, a CS + Econ student at Harvey Mudd and Claremont McKenna. I'm interested in software engineering and product management, and I'm especially excited about computer science applications in public health.
+I'm Michelle, a CS + Math student at Harvey Mudd. I'm interested in software engineering and product management.
 <!--
 **michellelu625/michellelu625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
